@@ -1,0 +1,102 @@
+[
+    {
+        "Question": [
+            "What does CPU stand for?",
+            "Central Processing Unit",
+            "Central Process Unit",
+            "Computer Personal Unit",
+            "Central Processing Unit",
+            "Control Processing Unit"
+        ]
+    },
+    {
+        "Question": [
+            "Which device is used to input data into a computer?",
+            "Keyboard",
+            "Monitor",
+            "Printer",
+            "Keyboard",
+            "Speaker"
+        ]
+    },
+    {
+        "Question": [
+            "What is the main function of an operating system?",
+            "Manage hardware and software resources",
+            "Play games",
+            "Manage hardware and software resources",
+            "Display advertisements",
+            "Design websites"
+        ]
+    },
+    {
+        "Question": [
+            "Which of the following is not a type of computer memory?",
+            "CPU",
+            "RAM",
+            "ROM",
+            "CPU",
+            "Cache"
+        ]
+    },
+    {
+        "Question": [
+            "What is the brain of the computer?",
+            "CPU",
+            "Mouse",
+            "Monitor",
+            "CPU",
+            "Hard Drive"
+        ]
+    },
+    {
+        "Question": [
+            "Which part of the computer stores permanent data?",
+            "Hard Drive",
+            "RAM",
+            "Hard Drive",
+            "Monitor",
+            "Keyboard"
+        ]
+    },
+    {
+        "Question": [
+            "What does 'www' stand for in a website browser?",
+            "World Wide Web",
+            "World Web Wide",
+            "Wide World Web",
+            "Web World Wide",
+            "World Wide Web"
+        ]
+    },
+    {
+        "Question": [
+            "Which of the following is an example of software?",
+            "Microsoft Word",
+            "Mouse",
+            "Microsoft Word",
+            "Monitor",
+            "Keyboard"
+        ]
+    },
+    {
+        "Question": [
+            "What does 'bit' stand for in computing?",
+            "Binary Digit",
+            "Binary Digit",
+            "Basic Information Tool",
+            "Binary Table",
+            "Byte Information Token"
+        ]
+    },
+    {
+        "Question": [
+            "What is the function of a modem?",
+            "To connect to the internet",
+            "To print documents",
+            "To connect to the internet",
+            "To process images",
+            "To store files"
+        ]
+    }
+]
